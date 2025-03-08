@@ -11,7 +11,7 @@ const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
 
-  question.innerHTML = "I love you too! 😘";
+  question.innerHTML = "Chúc Nhím 8/3 luôn xinh đẹp, may mắn và hạnh phúc. Chúc cậu một ngày vui vẻ! 😘";
 
   gif.src =
 
